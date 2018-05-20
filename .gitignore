@@ -1,0 +1,16 @@
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.toc
+xmuTemple.synctex.gz
+*.log
+*.pdf
+*.idv
+*.xref
+*.tmp
+*.bbl
+*.blg
+*.4tc
+*.4ct
+*.lg

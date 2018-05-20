@@ -1,0 +1,42 @@
+\cleardoublepage 
+\chapter{我们的方法}
+
+
+\section{公式演示}
+
+引用公式\ref{eq_1}。
+
+\label{eq_1}
+\begin{equation}
+f(x) = frac{\Delta x^2}{\Delta e^x}
+\end{equation}
+
+\section{表格演示}
+
+引用表格\ref{table_1}。
+
+\begin{minipage}{\linewidth}
+  \centering
+  \captionof{table}{\label{table_1}表格标题}
+  \begin{tabularx}{30em}%
+   {|*{5}{>{\centering\arraybackslash}X|}}
+     \hline
+     列1 & 列2 & 列3\\ \hline
+     1 & 1 & 233 \\ \hline
+     2 & 1 & 233 \\ \hline
+     3 & 1 & 233 \\ \hline
+     4 & 1 & 233 \\ \hline
+     5 & 1 & 233 \\ \hline
+    \end{tabularx}
+\end{minipage}
+
+\section{图表演示}
+
+引用图表\ref{fig_1}。
+
+\begin{figure}[htb]
+  \centering
+  \includegraphics[width=4cm]{fish.jpg}\\
+  \caption{图表标题}\label{fig_1}
+\end{figure}
+
