@@ -5,7 +5,6 @@
 *.toc
 xmuTemple.synctex.gz
 *.log
-*.pdf
 *.idv
 *.xref
 *.tmp
@@ -14,3 +13,4 @@ xmuTemple.synctex.gz
 *.4tc
 *.4ct
 *.lg
+*.pdf

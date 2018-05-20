@@ -42,3 +42,12 @@
 ```bash
 make build
 ```
+
+### 实用工具
+
+* [从arXiv生成BibTex引用](https://arxiv2bibtex.org/)
+* [为LaTeX安装国标引用支持](https://liam0205.me/2014/05/09/gbt7714-2005-bibtex-style/)
+* [谷歌学术 可以直接获取BibTex](https://scholar.google.cn/)
+* [LaTeX公式符号参考](https://artofproblemsolving.com/wiki/index.php/LaTeX:Symbols)
+
+祝顺利毕业！
